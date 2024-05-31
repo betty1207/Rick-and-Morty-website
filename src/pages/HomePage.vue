@@ -122,7 +122,7 @@
       </svg>
       
     </a>
-    <div>&copy; 2024 Your Name. All rights reserved.</div>
+    <div>&copy; 2024 rick and Morty. All rights reserved.</div>
   </div>
 </footer>
 
