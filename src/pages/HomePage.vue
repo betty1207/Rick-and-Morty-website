@@ -108,7 +108,7 @@
     <footer class="bg-gray-900 bg-opacity-80 text-gray-400 py-4 mt-8 fixed inset-x-0 bottom-0 flex flex-col items-center">
   
   <div class="flex flex-col items-center space-y-2 mt-2">
-    <a href="https://github.com/your-github-profile" target="_blank" class="flex items-center space-x-2">
+    <a href="https://github.com/betty1207/Rick-and-Morty-website" target="_blank" class="flex items-center space-x-2">
       <span class="text-white hover:text-orange-400">GitHub link:</span>
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white hover:text-orange-400" fill="currentColor" viewBox="0 0 24 24">
         <path d="M12 .5a11.5 11.5 0 00-3.636 22.419c.575.106.786-.25.786-.556 0-.274-.01-1.002-.015-1.966-3.2.695-3.878-1.541-3.878-1.541-.523-1.326-1.276-1.678-1.276-1.678-1.043-.714.08-.7.08-.7 1.155.08 1.763 1.186 1.763 1.186 1.025 1.758 2.688 1.25 3.344.956.104-.742.4-1.25.726-1.538-2.554-.29-5.24-1.277-5.24-5.684 0-1.256.447-2.282 1.183-3.085-.118-.292-.513-1.465.113-3.054 0 0 .965-.309 3.163 1.18A10.996 10.996 0 0112 6.845c.977.005 1.96.131 2.877.384 2.196-1.489 3.158-1.18 3.158-1.18.63 1.59.235 2.763.118 3.054.738.803 1.183 1.829 1.183 3.085 0 4.416-2.693 5.392-5.256 5.674.412.356.772 1.062.772 2.138 0 1.543-.014 2.783-.014 3.164 0 .311.208.666.791.555A11.51 11.51 0 0012 .5z" />
