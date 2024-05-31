@@ -115,14 +115,14 @@
       </svg>
       
     </a>
-    <a href="https://www.figma.com/design/d3QH3bc5ZWxCBwCaRQ7LYU/Untitled?node-id=4-377&t=BbYYNUckN5wLSclq-0" target="_blank" class="flex items-center space-x-2">
+    <a href="https://www.figma.com/proto/d3QH3bc5ZWxCBwCaRQ7LYU/Untitled?node-id=54-962&t=XgMIR70OlFoqA1mk-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=54%3A962" target="_blank" class="flex items-center space-x-2">
       <span class="text-white hover:text-orange-400">Figma link:</span>
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white hover:text-orange-400" viewBox="0 0 24 24" fill="currentColor">
         <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C5.79086 0 4 1.79086 4 4C4 6.20914 5.79086 8 8 8C10.2091 8 12 6.20914 12 4C12 1.79086 10.2091 0 8 0ZM16 0C13.7909 0 12 1.79086 12 4C12 6.20914 13.7909 8 16 8C18.2091 8 20 6.20914 20 4C20 1.79086 18.2091 0 16 0ZM16 8C13.7909 8 12 9.79086 12 12C12 14.2091 13.7909 16 16 16C18.2091 16 20 14.2091 20 12C20 9.79086 18.2091 8 16 8ZM8 8C5.79086 8 4 9.79086 4 12C4 14.2091 5.79086 16 8 16C10.2091 16 12 14.2091 12 12C12 9.79086 10.2091 8 8 8ZM8 16C5.79086 16 4 17.7909 4 20C4 22.2091 5.79086 24 8 24C10.2091 24 12 22.2091 12 20C12 17.7909 10.2091 16 8 16ZM16 16C13.7909 16 12 17.7909 12 20C12 22.2091 13.7909 24 16 24C18.2091 24 20 22.2091 20 20C20 17.7909 18.2091 16 16 16Z" fill="#0ACF83"/>
       </svg>
       
     </a>
-    <div>&copy; 2024 rick and Morty. All rights reserved.</div>
+    <div>&copy; 2024 rick and morty. All rights reserved.</div>
   </div>
 </footer>
 
